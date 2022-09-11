@@ -4,6 +4,7 @@ body {
   display: grid;
   place-items: center;
   height: 100vh;
+  overflow: hidden;
   background: rgb(238, 174, 202);
   background: radial-gradient(
     circle,
